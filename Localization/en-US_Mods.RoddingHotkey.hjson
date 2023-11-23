@@ -1,0 +1,18 @@
+Keybinds.RodKeybind.DisplayName: Rod Keybind
+
+Configs: {
+	RodModConfig: {
+		DisplayName: Rod Mod Config
+		Headers.MainSettings: Main Settings Header
+
+		rodIfMouseOutsideRange: {
+			Label: rod If Mouse Outside Range
+			Tooltip: ""
+		}
+
+		RodIfMouseOutsideRange: {
+			Label: Rod If Mouse Outside Range
+			Tooltip: ""
+		}
+	}
+}

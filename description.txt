@@ -1,0 +1,3 @@
+Adds a hotkey to automatically use the Rod of Discord.
+The hotkey works as long as the ROD is in your inventory or an open void bag.
+"Make mod first, check if it already exists after"
